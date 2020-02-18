@@ -1,4 +1,5 @@
 
+// https://www.typescriptlang.org/docs/handbook/basic-types.html
 let i = 7
 let j:number = 7
 
