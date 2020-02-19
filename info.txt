@@ -1,0 +1,2 @@
+//Look at the Typscript Handbook for a quick review of Typescript
+https://www.typescriptlang.org/docs/handbook/basic-types.html
