@@ -19,6 +19,6 @@ padding = "Hello";
 console.log("padding : " + padding);
 padding = 7171;
 console.log("padding : " + padding);
-if (typeof padding === "string") {
-    console.log("padding is string");
+if (typeof padding === "number") {
+    console.log("padding is number");
 }
